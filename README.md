@@ -8,7 +8,8 @@ if you want to use this code put your Yahoo Finance API key in com.kimjiun.yahoo
 ### Features
     Yahoo Finance API
     RxJava  
-    StorIO
+    StorIO  
 
 ### References
+	https://github.com/PacktPublishing/Reactive-Android-Programming
     https://www.yahoofinanceapi.com/
